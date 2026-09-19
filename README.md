@@ -1,225 +1,152 @@
-Hi, I'm Kiran Kumar Swain 👋
+<div align="center">
 
-Data Science | Machine Learning | Data Analytics
+# 👋 Hi, I'm **Kiran Kumar Swain**
 
-📍 Bangalore, Karnataka, India
-📧 Email: kiranswain67@gmail.com
-💼 LinkedIn: Connect with me
-💻 GitHub: @kirankumar67-coder
-🌐 Portfolio: Visit my portfolio
+### `Data Science` • `Machine Learning` • `Data Analytics` • `AI`
 
-👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+AI%2FML+Engineer;Data+Science+%7C+Machine+Learning;Data+Analytics+%7C+Power+BI;Building+Real-World+AI+%26+Data+Projects" />
 
-I am a recent B.Tech Computer Science & Engineering graduate with a strong interest in Data Science, Machine Learning, Data Analytics, and AI.
+<p>
+  <a href="mailto:kiranswain67@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/kirankumar67-coder">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://kirankumar67-coder.github.io/Kirankumar_Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+</p>
 
-I enjoy working with data to clean and understand it, discover useful patterns, build machine learning models, evaluate their performance, and present insights through dashboards and applications.
+</div>
 
-I have hands-on experience across the analytics and machine learning lifecycle:
+---
 
-Data Collection → Data Cleaning → EDA → Feature Engineering → Model Training → Model Evaluation → Insights → Dashboard / Deployment
+## 🧑‍💻 About Me
 
-I am currently looking for opportunities where I can apply my technical skills, learn from experienced teams, and contribute to real-world data and AI projects.
+🎓 B.Tech CSE Graduate
+🤖 Interested in **AI/ML, Data Science & Analytics**
+📊 Love turning data into **models, insights & dashboards**
+🚀 Currently looking for **Fresher / Entry-Level AI/ML & Data roles**
 
-🎯 What I'm Looking For
+---
 
-I am actively looking for fresher / entry-level opportunities in:
+## 🛠️ Tech Stack
 
-📊 Data Analyst
+<div align="center">
 
-🤖 Machine Learning Engineer
+<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode,jupyter,tensorflow,pytorch" />
 
-🧠 Data Scientist
+<br><br>
 
-📈 Data Science / Analytics
+<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,matplotlib" />
 
-🛠️ AI/ML Engineer
+</div>
 
-💼 Business Intelligence / BI Analyst
+### 📊 Data & BI
 
-I am especially interested in roles involving Python, SQL, Machine Learning, Data Analytics, Power BI, AI, and Generative AI.
+`SQL` `Power BI` `Power Query` `DAX` `Excel` `EDA` `Data Visualization`
 
-🛠️ Technical Skills
+### 🤖 AI / ML
 
-👨‍💻 Programming
+`Machine Learning` `Deep Learning` `LLMs` `RAG` `Generative AI` `Agentic AI`
 
+---
 
+## 🎯 Open To Work
 
+<div align="center">
 
+`AI/ML Engineer`   `Machine Learning Engineer`   `Data Scientist`
 
-📊 Data Science & Machine Learning
+`Data Analyst`   `Data Science`   `BI Analyst`
 
+</div>
 
+---
 
+## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="33%" align="center">
 
+### 🌿 LeafGuard AI
 
+**Hybrid CNN + ML Plant Disease Detection**
 
-Machine Learning: Classification, Regression, Data Preprocessing, Feature Engineering, Train-Test Split, Model Training, Model Evaluation, Prediction Analysis, Cross-Validation
+`Python` `TensorFlow` `Scikit-learn` `Streamlit`
 
-📈 Data Analytics & BI
+**54K+ images • 38 diseases**
 
+</td>
 
+<td width="33%" align="center">
 
+### 🧠 AI Study Planner
 
-Data Cleaning
+**Student Burnout Prediction**
 
-Exploratory Data Analysis (EDA)
+`Python` `Scikit-learn` `Streamlit`
 
-Data Visualization
+**4 ML Models • ~89% test accuracy**
 
-KPI Reporting
+</td>
 
-Business Insights
+<td width="33%" align="center">
 
-Power Query
+### 📊 PhonePe Pulse
 
-DAX
+**Business Intelligence Dashboard**
 
-Excel
+`Power BI` `Power Query` `DAX`
 
-🗄️ Database
+**300K+ transactions**
 
+</td>
+</tr>
+</table>
 
+---
 
-SQL Joins
+## 📈 GitHub Stats
 
-Aggregations
+<div align="center">
 
-GROUP BY
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kirankumar67-coder&show_icons=true&theme=tokyonight&hide_border=true" />
 
-HAVING
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirankumar67-coder&layout=compact&theme=tokyonight&hide_border=true" />
 
-Data Analysis Queries
+</div>
 
-🤖 AI / Generative AI
+---
 
-Large Language Models (LLMs)
+## 🔥 Contribution Streak
 
-Retrieval-Augmented Generation (RAG)
+<div align="center">
 
-Generative AI
+<img src="https://streak-stats.demolab.com?user=kirankumar67-coder&theme=tokyonight&hide_border=true" />
 
-Agentic AI
+</div>
 
-AI Agents — foundational concepts
+---
 
-🔧 Tools & Platforms
+## 📊 Contribution Graph
 
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kirankumar67-coder&theme=tokyo-night&hide_border=true" />
 
+</div>
 
+---
 
+<div align="center">
 
+### 💡 *Learning. Building. Improving. Repeating.*
 
+**Let's connect and build something useful with Data & AI.**
 
-💼 Experience
+⭐ If you like my projects, consider giving them a star!
 
-AI & Data Analytics Intern — Rooman Technologies Pvt. Ltd.
-
-Feb 2026 – May 2026
-
-Analyzed structured datasets using Python, Pandas, NumPy, SQL, Excel, and Power BI.
-
-Performed data cleaning, preprocessing, and ETL across project tasks.
-
-Evaluated machine learning experiment outcomes and model behavior.
-
-Created KPI reports and interactive dashboards to communicate data-driven insights.
-
-Machine Learning Summer Training Program — PMEC, Berhampur
-
-Jun 2023 – Jul 2023
-
-Practiced core machine learning concepts including preprocessing, train-test split, classification, regression, and prediction analysis.
-
-Built and compared classification and regression models using Scikit-learn.
-
-Practiced model comparison, cross-validation, and predictive analysis.
-
-🚀 Featured Projects
-
-🌿 LeafGuard AI — Hybrid CNN-ML Plant Disease Detector
-
-Python • TensorFlow • Scikit-learn • Streamlit
-
-Built a hybrid pipeline combining MobileNetV2 CNN feature extraction with classical machine learning classifiers.
-
-Worked with 54,000+ leaf images covering 38 plant diseases.
-
-Compared Random Forest, Logistic Regression, and SVM using accuracy, precision, recall, and F1-score.
-
-Achieved 96.2% accuracy with Logistic Regression in the project evaluation.
-
-Built a Streamlit application for real-time plant disease prediction with confidence scores.
-
-🧠 Student Burnout Prediction & AI Study Planner
-
-Python • Scikit-learn • Streamlit
-
-Developed a burnout-risk prediction system using study hours, sleep hours, stress level, screen time, breaks, and assignment load.
-
-Compared Random Forest, Logistic Regression, Decision Tree, and KNN.
-
-Achieved approximately 89% testing accuracy in the project evaluation.
-
-Built a Streamlit application providing burnout risk predictions, study suggestions, and daily study planning.
-
-📱 PhonePe Pulse — End-to-End Business Intelligence Dashboard
-
-Power BI • Power Query • DAX
-
-Built an end-to-end Power BI dashboard using 300K+ transaction records and 110K+ user records.
-
-Applied ETL and Star Schema data modeling.
-
-Created 15+ DAX measures for KPI reporting, month-over-month, and year-over-year analysis.
-
-Added interactive KPI cards, slicers, and drill-through views.
-
-📚 Education
-
-Parala Maharaja Engineering College (PMEC), Berhampur, Odisha
-B.Tech in Computer Science & Engineering | 2022 – 2026
-
-Khemundi College, Digapahandi, Ganjam, Odisha
-Higher Secondary Education | 2022
-
-📈 My Learning & Career Focus
-
-I am continuously improving my skills in:
-
-Machine Learning
-
-Data Analytics
-
-SQL & Advanced SQL
-
-Power BI & DAX
-
-Python for Data Science
-
-Deep Learning
-
-Generative AI
-
-LLMs & RAG
-
-Agentic AI
-
-Real-world AI/ML deployment
-
-🤝 Let's Connect
-
-I am open to connecting with recruiters, hiring managers, developers, data professionals, and other people working in AI, Machine Learning, Data Science, and Analytics.
-
-If you have an opportunity that matches my profile, feel free to reach out.
-
-📧 Email: kiranswain67@gmail.com
-💻 GitHub: @kirankumar67-coder
-🌐 Portfolio: kirankumar67-coder.github.io/Kirankumar_Portfolio
-
-⭐ Thanks for Visiting My Profile!
-
-If you find any of my projects useful, feel free to ⭐ star the repository and connect with me.
-
-#DataScience #MachineLearning #DataAnalytics #Python #SQL #PowerBI #AI #GenAI #LLM #RAG
+</div>
